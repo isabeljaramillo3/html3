@@ -10,7 +10,7 @@ body{background-image: url("images/backgroujd.jpg");
 #container{
 		width:1000px;
 		height:700px;
-		background-color: rgba(237,173,85,0.74);
+		background-color: rgba(242,207,208,1.00);
 		margin: 0 auto;
 }
 
@@ -36,7 +36,7 @@ aside{
 }
 #main{width:730px;
 	height: 400px;
-	background-color:rgba(255,238,209,0.92);
+	background-color:rgba(11,64,21,1.00);
 float:right;
 	margin-top: 10px;
 }
